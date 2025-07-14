@@ -1,0 +1,16 @@
+.logo-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+  margin-top: 5px;
+  position: relative;
+  background: none !important;
+  box-shadow: none !important;
+}
+
+.main-logo {
+  height: 76px;
+  object-fit: contain;
+  background: none !important;
+  box-shadow: none !important;
+}
